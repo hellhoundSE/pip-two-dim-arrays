@@ -1,4 +1,14 @@
+Utils.java
+ Utils
 GenericTestFactory.java
  GenericTestFactory
-TestClass.java
- TestClass
+GetSumDiagonalTests.java
+ GetSumDiagonalTests
+GetSumAtIndicesTests.java
+ GetSumAtIndicesTests
+GetColSwappedTests.java
+ GetColSwappedTests
+GetSumTests.java
+ GetSumTests
+GetExceededArrayTests.java
+ GetExceededArrayTests
